@@ -24,8 +24,9 @@
 
 
 
+## [](#header-2) Publications
 
-
+> G.P. Tran, Y.-A. Chen, D.-I. Kang, J.P. Walters, and S.P. Crago, _Automated Demand-Based Vertical Elasticity for Heterogeneous Real-Time Workloads_.  In Proceedings of the International Conference on Cloud Computing, 2016. ([pdf](http://www.isi.edu/sites/default/files/users/jwalters/papers/IEEECloud2016-CameraReady.pdf){:target="_blank"})
 
 
 
