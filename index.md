@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I'm a computer scientist and lead a team of researchers.  Our interests largely target heterogeneous computing, and span traditional high performance computing and high performance embedded computing.
+![]({{ https://jpnwalters.github.io}}/images/headshot.jpg). I'm a computer scientist and lead a team of researchers.  Our interests largely target heterogeneous computing, and span traditional high performance computing and high performance embedded computing.
 
 
 
