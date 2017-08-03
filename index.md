@@ -10,7 +10,7 @@
 .image-left {
   display: block;
   margin-left: auto;
-  margin-right: 100px;
+  margin-right: 10px;
   float: left;
 }
 </style>
