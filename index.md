@@ -1,10 +1,4 @@
 
-
-
----
-layout: default
----
-
 <style type="text/css">
 .image-right {
   display: block;
