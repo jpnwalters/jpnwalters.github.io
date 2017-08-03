@@ -1,3 +1,10 @@
+
+
+
+---
+layout: default
+---
+
 <style type="text/css">
 .image-right {
   display: block;
@@ -15,10 +22,6 @@
 </style>
 
 
-
----
-layout: default
----
 ![]({{ https://jpnwalters.github.io}}/images/headshot.jpg){: .image-left target="_blank"} I'm a computer scientist and lead a team of researchers.  Our interests largely target heterogeneous computing, and span traditional high performance computing and high performance embedded computing.
 
 
