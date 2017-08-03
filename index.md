@@ -1,3 +1,21 @@
+<style type="text/css">
+.image-right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
+</style>
+
+
+
 ---
 layout: default
 ---
