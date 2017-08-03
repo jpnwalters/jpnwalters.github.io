@@ -1,6 +1,21 @@
 ---
 layout: default
 ---
+I'm a computer scientist and lead a team of researchers.  Our interests largely target heterogeneous computing, and span traditional high performance computing and high performance embedded computing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -94,7 +109,7 @@ end
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png) and this is text next to the image.
 
 ### Large image
 
